@@ -1,2 +1,2 @@
 # VLR
-VLR article-associated codes.
+VLR article-associated single-cell RNA-seq analysis codes.
